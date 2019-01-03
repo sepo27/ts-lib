@@ -1,0 +1,9 @@
+# Common
+.idea
+*.log
+npm-debug.log*
+.lock
+.env
+
+# Project
+node_modules

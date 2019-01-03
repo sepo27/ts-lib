@@ -1,0 +1,23 @@
+{
+  "name": "ts-lib",
+  "version": "0.0.0",
+  "description": "Ts lib boilerplate",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sepo27/ts-lib.git"
+  },
+  "author": "Sergey Poskachey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sepo27/ts-lib/issues"
+  },
+  "homepage": "https://github.com/sepo27/ts-lib#readme",
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
+}
