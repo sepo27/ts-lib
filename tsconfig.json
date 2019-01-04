@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es6",
     "module": "commonjs",
-    "outDir": "dist",
+    "outDir": "lib",
     "sourceMap": true,
     "allowSyntheticDefaultImports": true,
     "lib": ["es2017", "dom"]
@@ -11,6 +11,7 @@
     "src"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "src/**/*.spec.ts"
   ]
 }

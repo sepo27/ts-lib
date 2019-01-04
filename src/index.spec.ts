@@ -1,6 +1,6 @@
 
 describe('Spec', () => {
   it('passes', () => {
-    expect(true);
+    expect(true).toBeTruthy();
   });
 });
