@@ -8,8 +8,9 @@
     "compile:publish": "tsc -p tsconfig-publish.json",
     "lint:base": "eslint -c ./.eslintrc --ext .ts --ext .js src",
     "lint": "npm run lint:base src",
-    "test": "jest -c jest.config.json src",
-    "prepublish": "npm run lint && npm run test && npm run compile:publish"
+    "test": "jest -c jest.config.js spec",
+    "prepare": "npm run compile:publish",
+    "prepublishOnly": "npm run lint && npm run test"
   },
   "repository": {
     "type": "git",
