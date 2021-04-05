@@ -2,7 +2,7 @@
   "name": "@sepo27/ts-lib",
   "version": "0.1.1",
   "description": "Ts lib boilerplate",
-  "main": "lib/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "compile": "tsc -p tsconfig.json",
     "compile:publish": "tsc -p tsconfig-publish.json",
