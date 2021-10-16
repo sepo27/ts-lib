@@ -10,7 +10,8 @@
     "lint": "npm run lint:base src",
     "test": "jest -c jest.config.js spec",
     "prepare": "npm run compile:publish && husky install",
-    "prepublishOnly": "npm run lint && npm run test"
+    "prepublishOnly": "npm run lint && npm run test",
+    "version": "npm version -m v%s"
   },
   "repository": {
     "type": "git",
