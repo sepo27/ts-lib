@@ -1,5 +1,5 @@
 ## Flow
-1. `git clone --depth 1 git@github.com:sepo27/ts-lib.git`
+1. `git clone --depth 1 git@github.com:sepo27/ts-lib.git` <PROJECT_NAME>
 1. `git remote set-url origin <REPO_URL>`
 1. Update package.json
 1. Update README.md
