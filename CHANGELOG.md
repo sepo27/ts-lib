@@ -1,9 +1,9 @@
 ## Changelog
 
-#### [v0.1.2](https://github.com/sepo27/ts-lib/compare/v0.1.2...v0.1.2) *(13 December 2022)*
+#### [v0.3.0](https://github.com/sepo27/ts-lib/compare/v0.1.2...v0.3.0) *(13 December 2022)*
 
 -  [`dcc7239`](https://github.com/sepo27/ts-lib/commit/dcc723981be16b0374fb914ec9b598875a13efb9)
--  [`7c4677f`](https://github.com/sepo27/ts-lib/commit/7c4677f001b55b9ef5aaac8e83f8f0782193e34c)
+-  [`9994fa9`](https://github.com/sepo27/ts-lib/commit/9994fa9ebe3442c10f997f284e0455f311b90627)
 -  [`f952ef5`](https://github.com/sepo27/ts-lib/commit/f952ef52f545136126134a0efb911241b53d14e2)
 
 #### [v0.1.2](https://github.com/sepo27/ts-lib/compare/v0.1.1...v0.1.2) *(16 October 2021)*
